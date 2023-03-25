@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Gertrudis Tatterton",
+      "age": 18,
+      "email": "gtatterton0@ehow.com"
+    },
+    {
+      "id": 2,
+      "username": "Gail Newbatt",
+      "age": 53,
+      "email": "gnewbatt1@un.org"
+    },
+    {
+      "id": 3,
+      "username": "Walliw Wilstead",
+      "password": 12345,
+      "email": "wwilstead2@tripadvisor.com"
+    }
+  ],
+  "movies":[
+    
+            {
+                "id" : 1,
+                "poshter" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn9j7uyJL5iej42pq9-ZkH_XeEKeMApwrRYQ&usqp=CAU",
+                "title" : "Ramsetu",
+                "director" : "ram",
+                "year" : 2012,
+                "genre" : "Action",
+                "IMDB_Rating" : 6.4,
+                "ticket" : 215
+            }
+
+        ]
+ 
+
+}
